@@ -1,4 +1,4 @@
-# Building an Ambient Agent with LangGraph for an Email Assistant – Group 2
+# Building an Ambient Agent with LangGraph for an Email Assistant
 
 This project develops an AI-powered Email Assistant using LangGraph to:
 - Read and understand email content
@@ -11,6 +11,7 @@ This project develops an AI-powered Email Assistant using LangGraph to:
 ## 🔥 Project Goal
 
 To create an intelligent system that:
+
 ✔ Reads emails like a smart personal assistant  
 ✔ Alerts users for **important & urgent emails**  
 ✔ Reduces frustration by auto-managing inbox clutter  
